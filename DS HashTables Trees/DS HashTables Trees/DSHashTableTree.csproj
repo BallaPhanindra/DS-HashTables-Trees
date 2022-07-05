@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>DS_HashTables_Trees</RootNamespace>
+    <RootNamespace>DSHashTableTree</RootNamespace>
   </PropertyGroup>
 
 </Project>

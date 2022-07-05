@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DS_HashTables_Trees
+namespace DS HashTables Trees
 {
     public class HashTableMethod<K, V>
     {

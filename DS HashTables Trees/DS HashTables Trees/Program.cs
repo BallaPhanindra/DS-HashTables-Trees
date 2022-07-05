@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DS_HashTables_Trees
+namespace DS HashTables Trees
 {
     internal class Program
     {
